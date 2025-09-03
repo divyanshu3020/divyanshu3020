@@ -5,20 +5,31 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding nerd gif"/>
 </p>
 
+<!-- Badges Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyanshu3020&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/divyanshu3020?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/divyanshu3020?affiliations=OWNER&style=flat-square" />
+  <img src="https://img.shields.io/badge/Coding-24%2F7-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coffee-Powered-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code%20Time-Night%20Owl-8A2BE2?style=flat-square" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 - 🎯 Passionate about **AI apps, and Full-Stack Development**
-- 🧑‍🔬 Exploring **intelligent agents**, **LLM models**, **System Design of AI apps**, and **real-time apps**
+- 🧑‍🔬 Exploring **intelligent agents**, **LLM models**, **system design**, and **real-time apps**
 - 💡 Obsessed with solving problems that matter
 - 📚 Currently diving deep into **AI Engineering & Cloud**
 - ⚡ Fun fact: I debug faster with music 🎶
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1z2qx_lZfqYcNPEtu5KPbb9pSxHmaN2oI/view?usp=sharing)
 
 ---
 
 ### 🔧 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,ts,js,html,css,python,cpp,postgres,mongodb,git,linux,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,ts,js,html,css,python,cpp,postgres,mongodb,git,linux,figma,notion&perline=9" />
 </p>
 
 ---
@@ -43,7 +54,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1z2qx_lZfqYcNPEtu5KPbb9pSxHmaN2oI/view?usp=sharing" target="_blank">
+  <a href="[https://drive.google.com/file/d/1z2qx_lZfqYcNPEtu5KPbb9pSxHmaN2oI/view?usp=sharing](https://drive.google.com/file/d/1z2qx_lZfqYcNPEtu5KPbb9pSxHmaN2oI/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge" />
   </a>
 </p>
