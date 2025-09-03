@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1z2qx_lZfqYcNPEtu5KPbb9pSxHmaN2oI/view?usp=sharing](https://drive.google.com/file/d/1z2qx_lZfqYcNPEtu5KPbb9pSxHmaN2oI/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/1z2qx_lZfqYcNPEtu5KPbb9pSxHmaN2oI/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge" />
   </a>
 </p>
