@@ -29,7 +29,7 @@
 
 ### 🔧 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,ts,js,html,css,python,cpp,postgres,mongodb,git,linux,figma,notion&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,ts,js,docker,html,css,python,cpp,postgres,mongodb,git,linux,figma,notion&perline=9" />
 </p>
 
 ---
