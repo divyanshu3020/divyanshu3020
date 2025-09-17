@@ -48,9 +48,9 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/divyanshu-singh3020" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="mailto:divyanshu3020@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://twitter.com/divyanshu3020" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="www.linkedin.com/in/divyanshu3020" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:divyanshus068@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://x.com/Divyans25218905" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
 </p>
 
 <p align="center">
