@@ -23,7 +23,7 @@
 - 💡 Obsessed with solving problems that matter
 - 📚 Currently diving deep into **AI Engineering & Cloud**
 - ⚡ Fun fact: I debug faster with music 🎶
-- 📄 [Check out my Resume](https://drive.google.com/file/d/1z2qx_lZfqYcNPEtu5KPbb9pSxHmaN2oI/view?usp=sharing)
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1z2_qh7X7FqQQXg83CqopxMt8c6HE42ZN/view?usp=sharing)
 
 ---
 
